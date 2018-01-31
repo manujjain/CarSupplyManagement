@@ -11,5 +11,5 @@ Userregistration
 
 Inventory
 
-- Keeps record of inventory
-- User can add car (model name , price , units) in their inventory
+- Keeps record of inventory.
+- User can add number of cars (model name , price , units) in their inventory.
