@@ -1,4 +1,4 @@
-# CarSupplyManagement - Build with Django-
+# CarSupplyManagement - Build with Django
 
 Userregistration
 
