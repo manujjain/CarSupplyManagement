@@ -1,1 +1,3 @@
-# CarSupplyManagement
+# CarSupplyManagement - Build with Django-Python WebFramework
+
+
