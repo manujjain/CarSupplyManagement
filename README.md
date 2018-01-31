@@ -1,9 +1,15 @@
 # CarSupplyManagement - Build with Django-
 
-userregistrationapp 
+Userregistration
 
 - Handles User Registration and Login 
 - Three types of User:
   1. Customer
   2. Manufacturer
   3. Dealer
+
+
+Inventory
+
+- Keeps record of inventory
+- User can add car (model name , price , units) in their inventory
