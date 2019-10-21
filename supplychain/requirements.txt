@@ -28,4 +28,4 @@ gunicorn==19.7.1
 win10toast==0.8
 virtualenv==15.1.0
 dj-database-url==0.4.2
-django==1.11.7
+django==1.11.23
