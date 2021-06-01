@@ -23,7 +23,7 @@ setupfiles==0.0.50
 six==1.11.0
 template==0.4.2
 toml==0.9.3
-urllib3==1.22
+urllib3==1.26.5
 gunicorn==19.7.1
 win10toast==0.8
 virtualenv==15.1.0
